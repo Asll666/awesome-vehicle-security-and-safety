@@ -11,7 +11,7 @@
 
 - Car Hacking Book
     - Adventures in Automotive Networks and Control Units.pdf
-    - thecarhackershandbook.pdf
+    - the car hacker's handbook.pdf
 - Vehicle Protocol
     - 5G
         - 5G Network Architecture.pdf
