@@ -9,6 +9,71 @@
 
 # Contents
 
+- paper
+    - (PEN)TESTING VEHICLES WITH CANTOOLZ.pdf
+    - 汽车物联网安全 打击最常见的攻击模式.pdf
+    - 自動走行システムにおけるサイバーセキュリティ対策.pdf
+    - A 2018 practical guide to hacking NFC/RFID.pdf
+    - A Survey of Remote Automotive Attack Surfaces.pdf
+    - A Vulnerability in Modern Automotive Standards and How We Exploited It.pdf
+    - Adventures in Automotive Networks and Control Units.pdf
+    - AN ADVANCED CAR BACKDOOR MAKER.pdf
+    - Automobile Driver Fingerprinting.pdf
+    - Automotive Security Best Practices.pdf
+    - Braking the Connected Car - The Future of Vehicle Vulnerabilities.pdf
+    - Building a Car Hacking Development Workbench- Part 1.pdf
+    - Building a Car Hacking Development Workbench- Part 2.pdf
+    - Building a Car Hacking Development Workbench- Part 3.pdf
+    - can message injection.pdf
+    - CANDY - haCking infotAiNment AnDroid sYstems.pdf
+    - Car Hacking - EECS 3482 Intro to Computer Security.pdf
+    - Car Hacking - For Poories.pdf
+    - Car Hacking for Ethical Hackers.pdf
+    - Car Hacking For Poories.pdf
+    - Car Hacking Identification through Fuzzy Logic Algorithms.pdf
+    - Car hacks 101 - An overview of noticed automotive (in)security cases 2010-2016.pdf
+    - CAR INFOTAINMENT HACKING METHODOLOGY AND ATTACK SURFACE SCENARIOS.pdf
+    - CAR OF THE WINTER SAFE TRAVELS IN THE FUTURE -Trends in Next-Generation Automotive Safety and Security.pdf
+    - Car Security - A Pentester’s Approach.pdf
+    - Comprehensive Experimental Analyses of Automotive Attack Surfaces.pdf
+    - CONNECTED AND AUTONOMOUS VEHICLES - A HACKER’S DELIGHT.pdf
+    - CONNECTED CARS - THE OPEN ROAD FOR HACKERS.pdf
+    - Connected Vehicle Security Vulnerabilities.pdf
+    - Connected-Car-Study-2015.pdf
+    - Cyber-Security in the Connected Car Age.pdf
+    - Cyberattacks Against Intelligent Transportation Systems.pdf
+    - CyberseCurity for ConneCted Cars.pdf
+    - Cybersecurity Solutions for Connected Vehicles.pdf
+    - DOT and Industry Have Efforts Under Way, but DOT Needs to Define Its Role in Responding to a Real- world Attack.pdf
+    - enigma16_slides_savage.pdf
+    - Experimental Security Analysis of a Modern Automobile.pdf
+    - Experimental Security Assessment of BMW Cars - A Summary Report.pdf
+    - Experimental_Security_Research_of_Tesla_Autopilot.pdf
+    - Five Star Automotive Cyber Safety Framework.pdf
+    - Hack your car for Boost and Power.pdf
+    - Hacking (autonomous) Vehicles.pdf
+    - Infotainment & Telematics Connected Car Security.pdf
+    - IoTのセキュリティ ~ハッカーによる攻撃の現状と対策ポイント~.pdf
+    - Jailbreak! What Happens When Autonomous Vehicle Owners Hack Into Their Own Cars.pdf
+    - Modeling inter signal arrival times for accurate detection of CAN bus signal injection attacks.pdf
+    - Modern Automotive Vulnerabilities - Causes, Disclosure & Outcomes.pdf
+    - Modern Car Security.pdf
+    - OVER-THE-AIR - HOW WE REMOTELY COMPROMISED THE GATEWAY, BCM, AND AUTOPILOT ECUS OF TESLA CARS.pdf
+    - Professional penetration testing.pdf
+    - Remote Exploitation of an Unaltered Passenger Vehicle.pdf
+    - Research Trend of Automobile Security.pdf
+    - SANS Institute Information Security Reading Room.pdf
+    - Securing the Internet of Automotive Things.pdf
+    - Securing the Modern Automobile - From Hot Rodding to Hacking.pdf
+    - Security in Vehicle Networks.pdf
+    - Security issues and vulnerabilities in connected car systems.pdf
+    - Security Vulnerabilities in Bluetooth Technology as Used in IoT.pdf
+    - Security,the new safety requirement.pdf
+    - SyScan360 Information Security Conference.pdf
+    - The Car Hacker’s - Handbook A Guide for the Penetration Tester.pdf
+    - The Connected Car Ways to get unauthorized access and potential implications.pdf
+    - Tracking & Hacking - Security & Privacy Gaps Put American Drivers at Risk.pdf
+
 - Car Hacking Book
     - Adventures in Automotive Networks and Control Units.pdf
     - the car hacker's handbook.pdf
